@@ -1,0 +1,9 @@
+b6f0631c4ebb500198a6617c3e15010b *DESCRIPTION
+0799abdd43049f74070e3873c3465666 *NAMESPACE
+db41273245969c2b89e86eef7f33f049 *NEWS.md
+9c5c5079059b2eba8d97305e6b974390 *R/tipa.R
+f1e6f9bc5e92dbe789c81bed0d3c5872 *inst/extdata/phaseRefTimes.csv
+83611c82df2f6f8143aa485595efec95 *inst/extdata/stimOnsets.csv
+36ea47f645431da4ed7beb52d68407f4 *inst/extdata/timecourses.csv
+c996e6e6b972d3b7daef7946a518fece *man/tipaCosinor.Rd
+e52284127e0added2936785686925c83 *man/tipaPhaseRef.Rd
